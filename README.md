@@ -4,6 +4,7 @@
 | Name | Desc. |
 | :---: | :---: |   
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
+| <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
 
 # About me
 
