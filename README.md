@@ -1,4 +1,4 @@
 # jobs
 >List of links to find developer jobs 🚀
 
-<a align="center" href="https://www.malt.fr/">Malt</a>
+<p align="center" ><a href="https://www.malt.fr/">Malt</a></p>
