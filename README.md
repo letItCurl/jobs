@@ -1,8 +1,9 @@
-<p align="center" style="width: 600px">
-  <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
-</p>
+# Jobs [![](https://img.shields.io/badge/autor-letItCurl-red.svg)](https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US)
+>List of links to find developer freelance jobs 🚀
 
->List of links to find developer jobs 🚀
+<p align="center" >
+  <img style="width: 600px" src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
+</p>
 
 | Name | Desc. |
 | :---: | :---: |   
