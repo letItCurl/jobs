@@ -3,21 +3,25 @@
 
 <p align="center" >
   <table>
-    <tr>
-      <th>
-        <p>Name</p>
-      </th>
-      <th>
-        <p>Desc.</p>
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <a href="https://www.malt.fr/">Malt</a>
-      </th>
-      <th>
-        <p>Freelance marketplace</p>
-      </th>
-    </tr>
+    <thead>
+      <tr>
+        <th>
+          <p>Name</p>
+        </th>
+        <th>
+          <p>Desc.</p>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://www.malt.fr/">Malt</a>
+        </td>
+        <td>
+          <p>Freelance marketplace</p>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </p>
