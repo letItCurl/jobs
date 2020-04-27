@@ -1,4 +1,7 @@
-# jobs
+<p align="center" style="width: 600px">
+  <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
+</p>
+
 >List of links to find developer jobs 🚀
 
 | Name | Desc. |
