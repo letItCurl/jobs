@@ -5,6 +5,8 @@
 | :---: | :---: |   
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
 
+# About me
+
 <table style="border: none;">
   <tr>
     <td>
