@@ -9,6 +9,7 @@
 | :---: | :---: |   
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
 | <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
+| <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 
 # About me
 
