@@ -9,7 +9,7 @@
 | :---: | :---: |   
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
 | <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
-| <a href="https://www.freelance-info.fr">FreelanceInfo</a> | Freelance Joboard |
+| <a href="https://www.freelance-info.fr">FreelanceInfo</a> | Freelance Job board |
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 | <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | All kind of offers |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
