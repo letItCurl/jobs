@@ -2,7 +2,7 @@
 >List of links to find developer freelance jobs 🚀
 
 <p align="center" >
-  <img style="width: 600px" src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
+  <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
 </p>
 
 | Name | Desc. |
