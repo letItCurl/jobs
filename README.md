@@ -15,6 +15,7 @@
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
 | <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
+| <a href="https://www.freelancerepublik.com/">FreelanceRepublik</a> | Freelance marketplace |
 
 # About me
 
