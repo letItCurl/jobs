@@ -12,6 +12,7 @@
 | <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
 | <a href="https://www.freelancerepublik.com/">FreelanceRepublik</a> | Freelance marketplace |
 | <a href="https://www.coworkees.com/">Coworkees</a> | Freelance marketplace |
+| <a href="https://cremedelacreme.io/fr">creme de la creme</a> | Freelance marketplace |
 | <a href="https://www.freelance-info.fr">FreelanceInfo</a> | Freelance Job board |
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
