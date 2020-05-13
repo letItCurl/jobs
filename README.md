@@ -13,7 +13,7 @@
 | <a href="https://www.freelancerepublik.com/">FreelanceRepublik</a> | Freelance marketplace |
 | <a href="https://www.coworkees.com/">Coworkees</a> | Freelance marketplace |
 | <a href="https://cremedelacreme.io/fr">creme de la creme</a> | Freelance marketplace |
-| <a href="https://www.littlebigconnection.com">littlebigconnection</a> | Freelance marketplace |
+| <a href="https://www.littlebigconnection.com">littlebigconnection</a> | Freelance marketplace / large European accounts |
 | <a href="https://www.toptal.com/">toptal</a> | Freelance marketplace for winners |
 | <a href="https:/www.404works.com">404works</a> | Freelance marketplace |
 | <a href="https://www.xxe.fr">xxe</a> | Freelance marketplace |
