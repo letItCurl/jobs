@@ -5,7 +5,7 @@
   <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
 </p>
 
-| Name | Desc. |
+| Name | Description |
 | :---: | :---: |   
 | <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | All kind of offers |
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
