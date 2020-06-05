@@ -14,6 +14,7 @@
 | <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | All kind of offers |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
+| <a href="https://x-team.com/">x-team</a> | Job board |
 
 # About me
 
