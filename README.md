@@ -24,12 +24,8 @@
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
-<<<<<<< HEAD
 | <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
-
-=======
 | <a href="https://x-team.com/">x-team</a> | Job board |
->>>>>>> 96c32c3674fb0cb8022d2b22a8eae0fc6cbdd0f8
 
 # About me
 
