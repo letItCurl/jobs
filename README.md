@@ -7,7 +7,7 @@
 
 | Name | Description |
 | :---: | :---: |   
-| <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | All kind of offers |
+| <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | Job board |
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
 | <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
 | <a href="https://www.freelancerepublik.com/">FreelanceRepublik</a> | Freelance marketplace |
