@@ -28,6 +28,8 @@
 | <a href="https://x-team.com/">x-team</a> | Job board |
 | <a href="https://x-team.com/">x-team</a> | Job boardb |
 | <a href="https://x-team.com/">x-team</a> | Job boardc |
+| <a href="https://x-team.com/">x-team</a> | Job boardd |
+
 
 # About me
 
