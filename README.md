@@ -26,6 +26,8 @@
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
 | <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
 | <a href="https://x-team.com/">x-team</a> | Job board |
+| <a href="https://x-team.com/">x-team</a> | Job boardd |
+
 
 # About me
 
