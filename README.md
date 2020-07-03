@@ -5,16 +5,28 @@
   <img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1588011053/Vue-Sprint/FreelanceWork_lz8a8s.png">
 </p>
 
-| Name | Desc. |
+| Name | Description |
 | :---: | :---: |   
+| <a href="https://www.linkedin.com/jobs/search/">Linkedin jobsboard</a> | Job board |
 | <a href="https://www.malt.fr/">Malt</a> | Freelance marketplace |
 | <a href="https://www.comet.co">Comet</a> | Freelance marketplace |
+| <a href="https://www.freelancerepublik.com/">FreelanceRepublik</a> | Freelance marketplace |
+| <a href="https://www.coworkees.com/">Coworkees</a> | Freelance marketplace |
+| <a href="https://cremedelacreme.io/fr">Crème de la Crème</a> | Freelance marketplace |
+| <a href="https://www.littlebigconnection.com">little big connection</a> | Freelance marketplace / large European accounts |
+| <a href="https://www.toptal.com/">Toptal</a> | Freelance marketplace for winners |
+| <a href="https:/www.404works.com">404works</a> | Freelance marketplace |
+| <a href="https://www.xxe.fr">xxe</a> | Freelance marketplace |
+| <a href="https://www.freelance-informatique.fr">freelance-informatique</a> | Freelance marketplace |
+| <a href="https://iziday.com">Iziday</a> | Freelance marketplace |
+| <a href="https://www.talent.io">Talent.io</a> | Freelance Job board |
 | <a href="https://www.freelance-info.fr">FreelanceInfo</a> | Freelance Job board |
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
-| <a href="https://www.linkedin.com/jobs/search/">Linkedin jobs</a> | All kind of offers |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
+| <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
 | <a href="https://x-team.com/">x-team</a> | Job board |
+
 
 # About me
 
@@ -31,7 +43,7 @@
         I'm letItCurl, fullstack developer engineer in freelance a.k.a Roland in real life :p</br>
         If you have any question you can <a href="https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US">contact me</a> if you wish !</p>
         <p>I'm always ready to help !</p>
-        <a style="color: #f694ff;" href="mailto:rolandlopez.developer@gmail.com?subject=Hey! Are you available?">Email me</a>
+        <a href="mailto:rolandlopez.developer@gmail.com?subject=hEy!_4re_y0ù_ava1l4ble???">Email me</a>
     </div>
     </td>
   </tr>
