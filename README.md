@@ -19,13 +19,15 @@
 | <a href="https://www.xxe.fr">xxe</a> | Freelance marketplace |
 | <a href="https://www.freelance-informatique.fr">freelance-informatique</a> | Freelance marketplace |
 | <a href="https://iziday.com">Iziday</a> | Freelance marketplace |
+| <a href="https://x-team.com/">x-team</a> | Freelance marketplace |
 | <a href="https://www.talent.io">Talent.io</a> | Freelance Job board |
 | <a href="https://www.freelance-info.fr">FreelanceInfo</a> | Freelance Job board |
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 | <a href="https://stackoverflow.com/jobs">Stackoverflow jobs</a> | Job board |
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
 | <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
-| <a href="https://x-team.com/">x-team</a> | Job board |
+| <a href="https://rimotoio.roleup.com/">rimotoio</a> | Remote job board (in progress) |
+
 
 
 # About me
