@@ -29,6 +29,8 @@
 | <a href="https://rimotoio.roleup.com/">rimotoio</a> | Remote job board (in progress) |
 
 
+***feel free to use and contribute to this***
+
 
 # About me
 
