@@ -27,6 +27,7 @@
 | <a href="https://www.jobijoba.com">Jobijoba</a> | Job board |
 | <a href="https://www.skillvalue.com">Skillvalue</a> | Job board |
 | <a href="https://rimotoio.roleup.com/">rimotoio</a> | Remote job board (in progress) |
+| <a href="https://www.free-work.com/">free-work</a> | Remote job board |
 
 
 # About me
