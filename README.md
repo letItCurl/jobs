@@ -27,6 +27,7 @@
 | <a href="https://www.talent.io">Talent.io</a> | Freelance Job board |
 | <a href="https://www.toptal.com/">Toptal</a> | Freelance marketplace for winners |
 | <a href="https://www.xxe.fr">xxe</a> | Freelance marketplace |
+| <a href="https://welovedevs.com/">we love devs</a> | Job board |
 | <a href="https://whatjobs.com">What jobs ?</a> | Freelance job board |
 
 
